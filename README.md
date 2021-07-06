@@ -2,7 +2,7 @@
 I'm Meagan Provencher, a Full Stack Software Engineer located in Boulder, CO. In addition to spending my time coding and learning new technologies, I also enjoy persuing creative endeavors in both digital design and fine art, as well as writing. I am passionate about the mental health field and would love to engage with projects working towards bettering the world. Please feel free to take a look at my work and reach out!
 
 ___
-
+<p align="center">
 <!-- Linked In Contact -->
 <a href="https://www.linkedin.com/in/meaganprovencher/" target="_blank">
   <img src="https://img.shields.io/badge/-mrprov12-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -13,23 +13,12 @@ ___
   <img src="https://img.shields.io/badge/EMAIL-meaganprovencher@gmail.com-0F2DD9?style=for-the-badge"/>
 </a>
 
-<!-- Visitors badge -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mrprov12.mrprov12)
-
+</p>
 ___
 
 ## <p align=center>Dev Technologies and Tools:</p>
 <br/>
 
-> OS <br/>
-<!-- mac -->
-<p>
-<img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-<!-- ubuntu -->
-<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  </p>
-<br />
-<br>
 
 > Front End  <br/>
 <!-- html5 -->
@@ -43,12 +32,6 @@ ___
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <!-- React -->
 <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<!-- Nodejs -->
-<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-
-<!-- express -->
-<img align="center" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 
 <!-- redux -->
 <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -73,6 +56,13 @@ ___
   
 > Back End 
 <p>
+  
+<!-- Nodejs -->
+<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+
+<!-- express -->
+<img align="center" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+
 <!--  mysql -->
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -88,17 +78,6 @@ ___
   <br/>
 
 </p>
-
-> Version Control 
-<p>
-<!-- Git -->
-<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-
-<!-- Github -->
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<br/>
-  </p>
-</br>
 
 > Testing & Deployment
 <p>
@@ -126,6 +105,20 @@ ___
 <br/>
 
 > Other   
+<!-- mac -->
+<p>
+<img align="center" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<!-- ubuntu -->
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </p>
+<p>
+<!-- Git -->
+<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+
+<!-- Github -->
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<br/>
+  </p>
 <p>
 <!-- adobe -->
 <img align="center" alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
@@ -136,12 +129,18 @@ ___
 <!-- notion  -->
 <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+
+
 ___
 
-## Stats
+## <p algin="center">Stats
 
 [![mrprov12's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrprov12&show_icons=true&theme=dark)](https://github.com/mrprov12/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprov12&layout=compact&theme=dark)](https://github.com/mrprov12/github-readme-stats)
 
 
+<!-- Visitors badge -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrprov12.mrprov12)
+
+</p>
