@@ -1,4 +1,4 @@
-![](/imgs/ghProf_2.png)
+![](/imgs/updated_gh_prof_2-02.png)
 
 
 ___
