@@ -141,6 +141,8 @@ ___
 ___
 
 ## <p algin="center">Stats
+  
+  ![codewars](https://www.codewars.com/users/kirisuna/badges/large)
 
 [![mrprov12's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrprov12&show_icons=true&theme=dark)](https://github.com/mrprov12/github-readme-stats)
 
