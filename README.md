@@ -1,7 +1,14 @@
+<h1 align=center>
+:us:/:maple_leaf: Open for work/relocation in US & Canada
+<br>:computer: Open to Remote work 
+</h1>
+
 ![](/imgs/updated-03.png)
 
 
 ___
+
+  
 <p align="center">
 <!-- Linked In Contact -->
 <a href="https://www.linkedin.com/in/meaganprovencher/" target="_blank">
@@ -14,7 +21,7 @@ ___
 </a>
 
 </p>
-___
+
 
 ## <p align=center>Dev Technologies and Tools:</p>
 <br/>
