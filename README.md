@@ -148,6 +148,9 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprov12&layout=compact&theme=dark)](https://github.com/mrprov12/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrprov12)](https://git.io/streak-stats)
+
+
 
 <!-- Visitors badge -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrprov12.mrprov12)
