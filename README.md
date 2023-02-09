@@ -1,6 +1,5 @@
 <h1 align=center>
-:us:/:maple_leaf: Open for work/relocation in US & Canada
-<br>:computer: Open to Remote work 
+:us:/:computer: Open for Remote US Work
 </h1>
 
 ![](/imgs/updated-03.png)
