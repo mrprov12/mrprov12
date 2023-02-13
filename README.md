@@ -7,7 +7,7 @@
 
 ___
 
-**Meagan Provencher is an autonomous, hard-working fullstack developer with strong backend interests who thrives at being a team player. She has enjoyed mentoring and managing those junior to her over her career, and aspires to become both a "people" and "project" Engineering Manager. She has a penchant for problem solving and a love of a good challenge that has made her an asset to the teams she has worked on, and is looking forward to applying those skillsets in her next venture.**
+**Meagan Provencher is an autonomous, hard-working fullstack developer with strong backend interests who thrives at being a team player. Her biggest motivator is helping to make the lives of users and her fellow teammates easier through the combination of her engineering skills, ingenuity, and psychology background. She has enjoyed mentoring and managing those junior to her over her career, and aspires to become both a "people" and "project" Engineering Manager. She has a penchant for problem solving and a love of a good challenge that has made her an asset to the teams she has worked on, and is looking forward to applying those skillsets in her next venture.**
 
 <br />  
 <p align="center">
