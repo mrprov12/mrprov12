@@ -17,8 +17,8 @@ ___
 </a>
 
 <!-- Email -->
-<a href="mailto:meaganprovencher@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-meaganprovencher@gmail.com-0F2DD9?style=for-the-badge"/>
+<a href="mailto:meaganprovencher.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-meaganprovencher.dev@gmail.com-0F2DD9?style=for-the-badge"/>
 </a>
 
 </p>
